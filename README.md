@@ -1,5 +1,5 @@
-# openthing
-OpenThing is an eclectic piece of information craft that may have various literary forms and may touch various fields of culture.
+# openThing
+openThing is an eclectic piece of information craft that may have various literary forms and may touch various fields of culture.
 
 Culture is holistic as well as eclectic. Culture crystalizes in information-sphere as various forms. The persistence of culture is via these forms. Languages are fluidification of the cultures between abstract boundaries.
 
