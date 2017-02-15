@@ -7,6 +7,6 @@ Science, philosophy, literature and all the art forms have various forms of pers
 
 These manifolds of information-craft have endless internal connections as well as external ones.
 
-Mimics and give snapshots of the "self view of mind" in an historical and open context..
+Mimics and gives snapshots of the "self view of THE MIND" in an historical and open context..
 
 
