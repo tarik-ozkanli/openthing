@@ -1,0 +1,1 @@
+The four problems we mentioned—completeness, decidability, independence and consistency—together with the division of logic into the branches where the study of each of them, respectively, dominates or characterizes the whole branch—model theory, recursion theory, set theory and proof theory have become standard for education in logic in the second half of the XXth century.
