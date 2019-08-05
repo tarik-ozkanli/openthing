@@ -1,1 +1,9 @@
-The four problems we mentioned—completeness, decidability, independence and consistency—together with the division of logic into the branches where the study of each of them, respectively, dominates or characterizes the whole branch—model theory, recursion theory, set theory and proof theory have become standard for education in logic in the second half of the XXth century.
+1. "The four problems we mentioned—completeness, decidability, independence and consistency—together with the division of logic into the branches where the study of each of them, respectively, dominates or characterizes the whole branch—model theory, recursion theory, set theory and proof theory have become standard for education in logic in the second half of the XXth century." 
+
+2. Completenes, Decidability, independence and consistency.
+
+3. The truth is what has the simplest and the most beautiful symbolic expression. Kurt Godel.
+
+4. Although truth and beauty are intensionally different, they are extensionally equivalent.
+
+5. Elementary logic is the logic for finite minds. If you have an infinite mind, you have set theory. For example, set theory for a finite universe of ten thousand elements is part of elementary logic.
