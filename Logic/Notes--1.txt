@@ -7,3 +7,8 @@
 4. Although truth and beauty are intensionally different, they are extensionally equivalent.
 
 5. Elementary logic is the logic for finite minds. If you have an infinite mind, you have set theory. For example, set theory for a finite universe of ten thousand elements is part of elementary logic.
+
+6. Godel was hoping for a logic that will include an intensional theory dealing with concepts, with which he will be able to go beyond the limits of the existing extensional theory.
+
+7. Logic is the theory of the formal. It consists of set
+theory and the theory of concepts. The distinction between elementary (or predicate) logic, nonelementary logic, and set theory is a subjective distinction. Subjective distinctions are dependent on particular forms of the mind. What is formal has nothing to do with the mind. Hence, what logic is is an objective issue. Objective logical implication is categorical.

@@ -11,3 +11,6 @@ Programlama Dillerini Anlamak
 -Uygulama
 
 -Sonuç
+
+Yorum:
+Aslında bence Yazılım Mühendisliği disiplini içerisinde kod geliştiren ve analiz test gibi faaliyetler yürütenler arasındaki farkın abartıldığını ve gelecekte bu rollerin daha fazla iç içe geçeceğini düşünüyorum. "Kod yazma" çözülmesi gereken problemin anlaşılıp içselleştirilmesiyle başlayıp ortaya çıkan artifact'in "verification" ve "validation" ı ile şimdilik son bulan bir faaliyet. Aslında her seviyede kod yazıyoruz ama farkında değiliz. Sadece git gide daha az "ambigious" bir dilde / formal sistemde yazabilmeye çalışıyoruz. Programlama dilleri aslında doğal dillerden çok daha basit ve tek anlamlı. Kod yazma aslında doğal dilde ifade edilen isterleri anlamlarından birine indirgeyip formal bir dilde ifade etmek demek. Aslında bir anlam bulutunu  tek ve büyük bir tam sayıyla ifade etmek demek :) Tüm yazılım mühendisliği faaliyetlerinin birbirine yaklaşacağına ve herkesin kod yazabileceğine inanıyorum. Bazıları daha da alt katmanda yazabilir, daha iyi perform eden hazır çözümlerle tekrar yazılan kodu refactor edebilir ama scrumdaki rollerin gerçek anlamdaki karışması fazla uzakta değil diye düşünüyorum.
